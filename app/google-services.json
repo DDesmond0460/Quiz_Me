@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "61239220437",
+    "firebase_url": "https://quizme-95416-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quizme-95416",
+    "storage_bucket": "quizme-95416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61239220437:android:567085149abbb219f7aa5c",
+        "android_client_info": {
+          "package_name": "com.company.quizme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61239220437-e9gm65b6pieuhic4rau25e69rt19pa44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.quizme",
+            "certificate_hash": "e7d881b633180c33f15892d241e1f0097ba4187f"
+          }
+        },
+        {
+          "client_id": "61239220437-flq35sgvviip6uf7ej8t56mr69nu8npu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu8ZKlu0-y43lMrGcVIqeckcndZoK3uJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61239220437-flq35sgvviip6uf7ej8t56mr69nu8npu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
